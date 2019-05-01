@@ -180,23 +180,22 @@ def conditions(cond_list):
     Collection of conditions from the user.
     Return list od conditions = tuples.
     '''
-    while True:
-        parametr = input('''Enter parameter you search:
+    parametr = input('''Enter parameter you search:
 --> ''').strip()
-        if not parametr:
-            break
-        value = input('''Enter value you search:
+    if not parametr:
+        return cond_list
+    value = input('''Enter value you search:
 --> ''').strip()
-        if not value:
-            break
-        comp_sing = input('''Enter comparison sing you search. Use:
+    if not value:
+        return cond_list
+    comp_sing = input('''Enter comparison sing you search. Use:
 =   is equal         >   is bigger             <   is smaller
 !=  is not equal     >=  is bigger or equal    <=  is smaller or equal
 --> ''').strip()
-        if not comp_sing:
-            break
-        condition = (parametr, value, comp_sing)
-        cond_list.append(condition)
+    if not comp_sing:
+        return cond_list
+    condition = (parametr, value, comp_sing)
+    cond_list.append(condition)
     return cond_list
 
 
