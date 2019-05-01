@@ -1,0 +1,10 @@
+brand=Mazda
+model=3
+model year=2018
+technical=
+    power=110
+    consumption=5
+    fuel=gas
+    transmission=manual
+category=sedan
+price=500

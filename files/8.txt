@@ -1,0 +1,10 @@
+brand=Volkswagen
+model=Golf
+model year=2015
+technical=
+    power=110
+    consumption=5
+    fuel=diesel
+    transmission=automatic
+category=hatchback
+price=500

@@ -1,0 +1,10 @@
+brand=Skoda
+model=Octavia
+model year=2016
+technical=
+    power=110
+    consumption=6
+    fuel=gas
+    transmission=manual
+category=sedan
+price=600

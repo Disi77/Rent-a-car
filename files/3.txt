@@ -1,0 +1,10 @@
+brand=Peugeot
+model=5008
+model year=2018
+technical=
+    power=130
+    consumption=6
+    fuel=diesel
+    transmission=automatic
+category=SUV
+price=800

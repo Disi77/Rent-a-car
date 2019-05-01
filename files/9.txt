@@ -1,0 +1,10 @@
+brand=Ford
+model=Focus
+model year=2014
+technical=
+    power=90
+    consumption=4.5
+    fuel=gas
+    transmission=manual
+category=hatchback
+price=400

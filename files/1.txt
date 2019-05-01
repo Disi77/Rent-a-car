@@ -1,0 +1,10 @@
+brand=Mazda
+model=6
+model year=2018
+technical=
+    power=125
+    consumption=8
+    fuel=gas
+    transmission=automatic
+category=luxury
+price=1200

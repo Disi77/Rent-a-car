@@ -1,0 +1,10 @@
+brand=Mazda
+model=3
+model year=2017
+technical=
+    power=88
+    consumption=7
+    fuel=gas
+    transmission=automatic
+category=sedan
+price=575

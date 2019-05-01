@@ -1,0 +1,10 @@
+brand=Nissan
+model=Xtrail
+model year=2015
+technical=
+    power=177
+    consumption=6.5
+    fuel=diesel
+    transmission=automatic
+category=SUV
+price=900
